@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:Zahid10-2107@diu.edu.bd" target="_blank"><img src="https://img.shields.io/badge/Email-Zahid10--2107%40diu.edu.bd-red" alt="Email" /></a> 
