@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX-Figma-blue" alt="Figma" />
-  <img src="https://img.shields.io/badge/Marketing-SEO-green" alt="App Development" />
   <img src="https://img.shields.io/badge/Analytics-Google_Analytics-yellow" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Platform-GitHub-black" alt="GitHub" />
 </p>
