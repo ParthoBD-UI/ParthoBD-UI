@@ -14,7 +14,7 @@
 - 🧠 Passionate about Digital Marketing, Branding, and Social Media Strategy
 - 💬 Ask me about **UI/UX Design, Figma, Canva, Digital Marketing**
 - 📫 Reach me at: **Zahid10-2107@diu.edu.bd**
-- ⚡ Fun fact: I love combining design with data-driven marketing!
+- ⚡ Fun fact: I am interested on App Developing!
 
 ---
 
