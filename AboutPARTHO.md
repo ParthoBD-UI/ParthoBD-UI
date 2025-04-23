@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="mailto:Zahid10-2107@diu.edu.bd" target="_blank"><img src="https://img.shields.io/badge/Email-Zahid10--2107%40diu.edu.bd-red" alt="Email" /></a> 
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Partho%20BD-blue" alt="LinkedIn" /></a>  
+  <a href="https://www.linkedin.com/in/parthobd-ui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Partho%20BD-blue" alt="LinkedIn" /></a>  
   <a href="https://www.behance.net/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Behance-Partho%20BD-purple" alt="Behance" /></a>
 </p>
