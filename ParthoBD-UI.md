@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Partho</h1>
-<h3 align="center">UI/UX Designer & Digital Marketing Enthusiast</h3>
+<h3 align="center">Front-end Developer, UI/UX Designer & Digital Marketing Enthusiast</h3>
 
 <p align="center">
   Crafting intuitive user experiences and driving online growth through smart design and marketing.
 </p>
 
----
+--
 
 ### About Me
 
@@ -15,6 +15,49 @@
 -  Ask me about **UI/UX Design, Figma, Canva, Digital Marketing**  
 -  Reach me at: **Zahid10-2107@diu.edu.bd**  
 - ⚡ Fun fact: I am interested on App Development!
+
+- # ParthoBD-UI ✨
+
+Welcome to ParthoBD-UI! This is my personal collection of modern, reusable, and beautifully crafted User Interface (UI) components. As a developer from Bangladesh 🇧🇩, I started this project to practice my front-end skills and build a design system that is both functional and aesthetically pleasing.
+
+### ► About This Project
+
+The goal of ParthoBD-UI is to create a comprehensive library of UI elements that can be easily integrated into any web project. Each component is designed with a focus on clean code, accessibility, and ease of use.
+
+---
+
+### ► Key Features
+
+* **Modern Design:** Clean, minimalist, and up-to-date design trends.
+* **Reusable Components:** Built to be modular and easily reusable across different projects.
+* **Responsive:** Fully responsive components that work seamlessly on all screen sizes.
+* **Accessible:** Designed with accessibility (a11y) in mind to ensure they are usable by everyone.
+* **Easy to Customize:** Components can be easily themed and customized to fit your project's brand.
+
+---
+
+### ► Tech Stack
+
+This project is being built using the following technologies:
+
+* **Framework:** React / Vue.js / Svelte *(Choose one or mention what you plan to use)*
+* **Language:** JavaScript / TypeScript
+* **Styling:** CSS3 / Sass / Tailwind CSS / Styled Components
+* **Tooling:** Vite / Webpack
+* **Deployment:** Vercel / Netlify
+
+---
+
+### ► Getting Started
+
+This project is currently under development. Detailed installation and usage instructions will be available soon.
+
+The general idea will be to install it as a package:
+
+```bash
+# Installation (Example)
+npm install parthobd-ui
+
 
 ---
 
